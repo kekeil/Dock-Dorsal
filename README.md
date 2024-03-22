@@ -1,5 +1,5 @@
 # Dock-Dorsal
- C'est un API pour une entreprise de fabrication d'équipement de correction pour les dos.
+ C'est une API pour une entreprise de fabrication d'équipement de correction pour les dos.
  Voila l'utilisation de l' API : 
 
  ## Avant toute utilisation de l'API une authentification est requise sauf pour créer un User Avec son rôle.
